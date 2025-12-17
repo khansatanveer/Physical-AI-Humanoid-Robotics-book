@@ -1,10 +1,7 @@
 # Dependencies
 node_modules/
 
-# Builds
-build/
-dist/
-out/
+
 
 # Runtime data
 pids
